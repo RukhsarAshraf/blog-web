@@ -9,7 +9,7 @@ export default function Navbar() {
         <header className="bg-gradient-to-r from-purple-900 to-pink-900 text-white shadow-lg">
             <div className="container flex justify-between flex-wrap p-3 flex-col md:flex-row items-center">
                 <div className="flex-1 text-white text-3xl font-bold font-serif">
-                    Novel's Blog
+                    Novel&apos;s Blog
                 </div>
 
                 <div className="m-3">
